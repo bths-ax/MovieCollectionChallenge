@@ -8,5 +8,5 @@ public class SimpleMovie {
 	}
 
 	public String getTitle() { return title; }
-	public String getActors() { return actors; }
+	public String[] getActors() { return actors; }
 }
